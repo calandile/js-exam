@@ -1,3 +1,5 @@
+https://calandile.github.io/js-exam/
+
 ## Build an application in ES6!
 
 #### index.html
